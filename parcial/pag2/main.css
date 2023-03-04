@@ -1,0 +1,111 @@
+*{
+
+    box-sizing: border-box;
+    font-family: "Roboto",sans-serif;
+    margin: 0;
+    
+    
+    
+    }
+    
+    .left{
+        float: left;
+    }
+    
+    header{
+    
+        position: fixed; 
+        background-color: blue;
+        width: 100%;
+    
+    }
+    
+    header a{
+    
+        color: brown;
+        text-decoration: none;
+        padding: 0 1.8rem;
+    
+    }
+    
+    .header-containe{
+    
+        margin: auto;
+        max-width: 1700px;
+        padding: 0.5rem;
+    
+    }
+    
+    h1{
+    
+        display: inline;
+    
+    }
+    
+    nav{
+    
+        float: right;
+        margin: 9px;
+    
+    }
+    
+    header li{
+    
+        display: inline;
+        list-style: none;
+    }
+    
+    /*presentation*/
+    
+    
+    
+    .dark-overlay{
+    
+         background-color: rgba(73, 83, 231, 0.7);
+         width: 100%;
+        height: 100%;
+    
+    
+    }
+    
+    .presentation-content{
+        color: rgb(1, 1, 34);
+        text-align: center;
+        padding: 285px 0;
+        margin: auto;
+        font-size: 150PX;
+    
+    }
+    
+    .about{
+    
+        height: 1000px;
+        font-size: 18px;
+    
+    
+    }
+    
+    .about-container{
+    
+        width: 50%;
+        height: 50%;
+        margin: BLUE;
+    
+    }
+    
+
+
+    img{
+        width: 50%;
+       
+    }
+    body{
+        background-color: black;
+    }
+
+    h2{
+        color: aliceblue;
+    }
+    p{
+        color: aliceblue;
+    }
